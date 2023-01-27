@@ -19,7 +19,7 @@ I really love test ❤
 
 현재 TDD, DDD 등 개발 방법론과 마이크로서비스 아키텍쳐에 큰 관심을 가지고 공부하고 있습니다.
 
-저는 테스트를 사랑합니다 ❤
+테스트를 사랑합니다 ❤
 
 <!---
 hy1as/hy1as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
