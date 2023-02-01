@@ -91,14 +91,32 @@ I really love test ❤
 <details>
     <summary>C#</summary>
 
-    | Project | Period |
-    |---|---|
-    |        1| Javascript|
-    |        2| Python    |
-    |        3| SQL       |
+| Project                                     |                     Role                     | Period            |
+|---------------------------------------------|:--------------------------------------------:|-------------------|
+| 다중이용시설 긴급대피용 경보단말 기술 |                UI Development                | 2018.07 ~ 2019.12 |
+| 경보표준 연계 경량형 IOT 재난경보장치 개발 |   TCP/IP Communication Module Development    | 2018.11 ~ 2019.10 |
+| 재난 예경보시스템 고도화 사업 |       Backend Web REST API Development       | 2019.05 ~ 2019.11 |
+| 강원도 민방위경보방송 TV자막 표출시스템 구축 | UI & TCP/IP Communication Module Development | 2019.06 ~ 2019.09 |
+| 세종특별자치시 민방위경보방송TV자막시스템 이중화 |                UI Development                | 2019.08 ~ 2019.12 |
+| 인천국제공항 T1 엘레베이터 중앙감시반 CRT연동공사 |                UI Development                | 2019.09 ~ 2019.11 |
+| 과학기술정보통신부 TV자막 표출 연계 시스템 구축 |   TCP/IP Communication Module Development    | 2020.09 ~ 2020.12 |
+| 이란 우진계기 리액터 온도감시 |                UI Development                | 2023.09 ~         |
 
 </details>
+<br/>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
+<details>
+    <summary>Javascript</summary>
+
+| Project        |                Role                | Period            |
+|----------------|:----------------------------------:|-------------------|
+| Sentimeter     |       Fullstack Development        | 2021.03 ~         |
+| 동광전자 재난 예경보 시스템 개발 | Web Frontend Development ( React ) | 2022.03 ~ 2022.06 |
+
+</details>
 
 <!---
 hy1as/hy1as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
