@@ -6,13 +6,14 @@
   <a href="https://hy1as.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
   </a>
+    &nbsp;
   <a href="https://instagram.com">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
 <br/>
 <div id="profile_counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=hy1as&style=flat-square&color=ff69b4" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=hy1as&style=flat-square&color=f5405f" alt=""/>
 </div>
 
 ### Hi there👋
