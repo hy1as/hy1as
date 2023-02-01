@@ -79,7 +79,7 @@ I really love test ❤
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hy1as&show_icons=true&bg_color=000000&title_color=EA5454&text_color=FFFFFF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy1as)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy1as&layout=compact&bg_color=000000&title_color=EA5454&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 hy1as/hy1as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
