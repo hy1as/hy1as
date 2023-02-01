@@ -76,6 +76,10 @@ I really love test ❤
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hy1as&theme=highcontrast&date_format=%5BY.%5Dn.j&ring=EB5454&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hy1as&show_icons=true&bg_color=000000&title_color=EA5454&text_color=FFFFFF)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy1as)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 hy1as/hy1as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
