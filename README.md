@@ -71,6 +71,11 @@ I really love test ❤
     
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hy1as&theme=highcontrast&date_format=%5BY.%5Dn.j&ring=EB5454&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
 <!---
 hy1as/hy1as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
