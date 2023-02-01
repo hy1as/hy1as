@@ -1,4 +1,8 @@
-### Hi there
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="600"/>
+</div>
+
+### Hi there👋
 
 I’m @hy1as.
 
@@ -11,7 +15,7 @@ I'm interested in development methodologies such as TDD and DDD and microservice
 I really love test ❤
 
 ---
-안녕하세요.
+안녕하세요.👋
 
 이민규 입니다.
 
